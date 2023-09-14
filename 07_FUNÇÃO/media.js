@@ -6,7 +6,4 @@ z=Number(prompt("Digite um valor para z: "))
 function calcularMedia(x, y, z){
     let media = (x+y+z)/3;
     return media;
-} 
-let resultado = calcularMedia(x, y, z);
-alert(`A media é: ${resultado.toFixed(2)}`)  
-
+}alert("A media é: "+calcularMedia(x, y, z)) 
