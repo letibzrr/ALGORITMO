@@ -29,4 +29,3 @@ function aumentoSalario(salario, tempoServico){
     }
 }alert(aumentoSalario(salario, tempoServico))
 
-//error
